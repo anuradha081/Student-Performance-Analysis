@@ -1,0 +1,18 @@
+student_id,name,subject_name,marks,student_average,rank_position,subject_average,result
+16,"Priya Sharma","Process Control",93,93.0000,1,78.8235,PASS
+8,"Sneha Roy","Process Control",92,92.0000,2,78.8235,PASS
+12,"Anuadha Kumari","Process Control",91,91.0000,3,78.8235,PASS
+4,"Priya Gupta","Process Control",90,90.0000,4,78.8235,PASS
+2,"Anjali Verma","Process Control",88,88.0000,5,78.8235,PASS
+14,Satyarth,"Process Control",88,88.0000,5,78.8235,PASS
+10,"Pooja Sharma","Process Control",85,85.0000,7,78.8235,PASS
+6,"Neha Singh","Process Control",84,84.0000,8,78.8235,PASS
+18,"Sneha Gupta","Process Control",80,80.0000,9,78.8235,PASS
+1,"Rahul Sharma","Process Control",78,78.0000,10,78.8235,PASS
+11,"Anuag Kumar","Process Control",74,74.0000,11,78.8235,PASS
+7,"Arjun Patel","Process Control",73,73.0000,12,78.8235,PASS
+15,"Anu Kumar","Process Control",70,70.0000,13,78.8235,PASS
+9,"Vikas Kumar","Process Control",67,67.0000,14,78.8235,PASS
+3,"Amit Singh","Process Control",65,65.0000,15,78.8235,PASS
+13,"Arya Rani","Process Control",62,62.0000,16,78.8235,PASS
+5,"Rohan Das","Process Control",60,60.0000,17,78.8235,PASS
