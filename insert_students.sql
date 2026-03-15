@@ -1,0 +1,18 @@
+INSERT INTO students (name, gender, department, year) VALUES
+('Rahul Sharma','Male','CSE',1),
+('Anjali Verma','Female','ECE',1),
+('Amit Singh','Male','ME',2),
+('Priya Gupta','Female','CE',2),
+('Rohan Das','Male','EE',3),
+('Neha Singh','Female','CSE',1),
+('Arjun Patel','Male','ECE',2),
+('Sneha Roy','Female','ME',3),
+('Vikas Kumar','Male','CSE',2),
+('Pooja Sharma','Female','CE',1),
+('Anuag Kumar','Male','CE',1),
+('Anuadha Kumari','Female','EIE',23),
+('Arya Rani','Female','PE',30),
+('Satyarth','Male','CSE',10),
+('Anu Kumar','Male','CE',1),
+('Priya Sharma','Female','CSE',32),
+('Rohit Verma','Male','ECE',32);
