@@ -222,7 +222,3 @@ The **Student Performance Analysis project** demonstrates how SQL can be used to
 This project highlights the power of SQL in **data analysis, reporting, and decision-making** in academic environments.
 
 ---
-Preview of Queries.
-Example:
-
-![Query Output](images/query_result.png)
